@@ -1,0 +1,14 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var result = "pass";
+console.log(typeof result);
+result = false;
+console.log(typeof result);
+result = 100;
+console.log(typeof result);
+var output;
+console.log(typeof output);
+output = false;
+console.log(typeof output);
+output = 100;
+console.log(typeof output);

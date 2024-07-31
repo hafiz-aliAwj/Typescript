@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var score = "33";
+score = 33;
+var data = [1, 2, 3];
+var data2 = ["1", "2", "3"];
+var data3 = [1, 2, "3"];
+var seatAllotment = "aisle";
+seatAllotment = "window";
+var finalResult = "fail";
+finalResult = "pass";
